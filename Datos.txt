@@ -1,0 +1,22 @@
+MIS DATOS
+Nombre de las carpetas
+adminapp
+
+
+--------------------------------------------------------
+SUS DATOS
+Nombre de las carpetas
+adminapp
+
+
+--------------------------------------------------------
+Comandos ejecutados
+Instalacion de la librera create-react-app:
+npm install -g create-react-app
+Crear un nuevo proyecto de la libreria:
+create-react-app adminapp
+
+
+Comandos para ejecucion
+npm run start
+URL: http://127.0.0.1:3000/
