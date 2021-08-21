@@ -17,11 +17,11 @@ class ButtonGroup extends Component {
         return (
             <Button.Group>
                 <Button onClick={() => setTablaVisible('alumnos')} color="blue" positive={alumnosSeleccionado}>
-                    Alumnos
+                    Habilitados
                 </Button>
                 <Button.Or text=""/>
                 <Button onClick={() => setTablaVisible('profesores')} color="blue" positive={profesoresSeleccionado}>
-                    Profesores
+                    Deshabilitados
                 </Button>
             </Button.Group>
         );
